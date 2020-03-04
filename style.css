@@ -1,0 +1,37 @@
+body {
+  box-sizing: border-box;
+  font-family: 'Consolas', monospace;
+}
+
+details {
+  padding: 20px;
+}
+
+details:hover {
+  cursor: pointer;
+}
+
+details[open] {
+  background: #fef;
+}
+
+.gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.gallery-item {
+  text-align: left;
+  display: inline-block;
+  margin: 20px;
+  min-width: 180px;
+  max-width: 33%;
+  min-height: 180px;
+}
+
+.gallery-item pre {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 1rem;
+}
