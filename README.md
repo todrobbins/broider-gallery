@@ -2,7 +2,7 @@
 
 An open collection of [broider](https://maxbittker.github.io/broider/) designs
 
-## contributing
+## Contributing
 
 Add your css class in a pull request to the [`broider.css`](broider.css) file with a note of authorship (or leave anonymous if you'd like).
 
