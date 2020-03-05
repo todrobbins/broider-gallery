@@ -83,6 +83,13 @@
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
+.poppy-cross {
+  border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABaElEQVR4nO2WQQ7DMAzD+v9Pbz9oQVhRs4wEclMci4ei13Vdn/JpU++nUIUiFBpmO6HpAmkBq/fB8xTKUOjwPp6nUAYWSgdO81QgFVTvp9BwXqHhvELD+XRhuuB03ur38XyFKlShCr0hnaeF0kLjeYWG8woN5xUaztMF6QPTBVfPozzOUyhDocP7eJ5CGWOh6dOm3k+hCkUoNMzp/URE/orTP8r1fgpVKEKhYZb3O/1Ht95PoQpFKDTMdkKn+bep91PoLP/+g2UUGmY7ofTsRr2fQhWKUGiY1/v9usAn6v0UqlCEQsOc3k9E5KdI/+ju9lGv91OoQhEKDbOd0HSBtIDV++B5CmUodHgfz1MoAwulA6d5KpAKqvdTaDiv0HBeoeF8ujBdcDpv9ft4vkIVqlCF3pDO00JpofG8QsN5hYbzCg3n6YL0gemCq+dRHucplKHQ4X08T6GMsdD0aVPvp1CFIhQaptrvC1EVM4TVl2v7AAAAAElFTkSuQmCC") 28 /  28px / 0 round;
+  border-width:  28px;
+  border-style:  solid;
+}
+
+/* designed by Tod Robbins: https://todrobbins.com */
 .zebra-stripe {
   border-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABnUlEQVR4nO3VQU4EMQxE0b7/pWGNkLBK/ondwy/JuykneYyG56nz5fyYdqYfsG3amX7Atmln+gHbBgfc3qf3t+8zDSLosj69X1B4f3yfqjANtL3/a5+gvb6gcF9QuF+CTl+Q7l/fvx2k2xcU7gsK98dBtwOVDwqDn78NRNBl/TSCVg8Kcx2UvnD6+dPA+P0EFfToee37CXoYNF7wstCAgj6CohEUzjjo6QtvS/oFErSIoHAEhXMd9NP/SXU9BC0m7QtaTNoXtJi0H//oClj0BRW0FUHhXAfFf6SXhQYU9BEUjaBwxkG7B74t6XsELSIoHEHh4KD0gdtDf6EELSbtC1pM2he0mLQf/+h+GiC+T1B4n6DwPkHhfRVY+0f6ZUnfL2gRQeEICuc4aHqB05+//QeOv3CC9s4XNIygzfPS80vQ7gHdC58+/3hfUEEFTfadPn8clL7A6f3TfUHhvqBwX1C4Xy6cvuC2frlf0KwvKNwXFO7H+9NC9wFVtgPjCwSFFwgKLxA0TLXwv0070w/YNu1MP2DbtDP9gG3zZ74B+8V0NZS6E8gAAAAASUVORK5CYII=") 28 /  28px / 0 round;
   border-width: 28px;
