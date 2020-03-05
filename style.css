@@ -1,6 +1,16 @@
 body {
   box-sizing: border-box;
   font-family: 'Consolas', monospace;
+  padding: 10px;
+}
+
+.site-title {
+  margin-bottom: 40px;
+  margin-left: 20px;
+}
+
+p {
+  margin-left: 20px;
 }
 
 details {
@@ -34,4 +44,8 @@ details[open] {
   overflow: hidden;
   text-overflow: ellipsis;
   font-size: 1rem;
+}
+
+footer {
+  margin-top: 40px;
 }
