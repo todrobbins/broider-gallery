@@ -6,10 +6,10 @@
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.cross-equals {
-  border-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAAA/klEQVR4nO3VQQqDUBAFQe9/6WTvTmxH/VaBy2R4jSTbBsCk3+5Zzfg+Qd9+cJigsdcF3X/+6md63/hBQeODgsYHPxf07kFXG98nqKCHCBp73L6zX1gPqgePvxCCxgSNCRobPzhM0JigMUFjq+8DWMrqP9r+5WOCxgSNCRoTNCZoTNCYoDFBY4LGBI0JGhM0JmhM0JigMUFjgsYEjQkaEzQmaEzQmKAxQWOCxgSNrb4PYCmr/2j7l48JGhM09rqg+89f/UzvGz8oaHxQ0Pjg54LePehq4/sEFfQQQWOP23f2C+tB9eDxF0LQmKAxQWPjB4cJGhM0Jmhs9X0Aj/UHGODbXfu56OgAAAAASUVORK5CYII=") 28 /  28px / 0 round;
-  border-width: 28px;
-  border-style: solid;
+.double-prairie {
+  border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABTklEQVR4nO2QMQoEQQzD9v+fvuunGULEOAQZXBoZfd89v6PVdPfdjPs/7tBjvkJhvkJhvkJhvkJhvkJhvkJhfnl/Dmyv8QPbGj+wrfED23pNeQDvuxn3f9yhx3yFwnyFwnyFwnyFwnyFwnyFwnyFwnyFwnyFwnyFwvzy/hzYXuMHtjV+YFvjB7b1mvIA3ncz7v+4Q4/5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX55f05sL3GD2xr/MC2xg9s6zXlAbzvZtz/cYce8xUK8xUK8xUK8xUK8xUK8xUK8xUK8xUK8xUK8xUK88v7c2B7jR/Y1viBbY0f2NZrygN43824/+MOPeYrFOYrFOYrFOYrFOYrFOYrFOaX9n+msncI/yiuGQAAAABJRU5ErkJggg==") 28 /  28px / 0 round;
+  border-width:  28px;
+  border-style:  solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
@@ -29,6 +29,13 @@
 /* designed by Tod Robbins: https://todrobbins.com */
 .floral-cross {
   border-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABTUlEQVR4nO3YMQ7CMBQEUd//0lBDwddqxxG2ZqR0Scw+CiTWWusFX2np8+150/vq/YIKKmgyiL4/fd920PQD7B5Ih+8XVFA0QeG2g04vSA847Wr3CwrvFxTeLyi8vz5guv/fw/cLKiiaoHCPg6bXaeH7BRUUTVC4x/efDtaG7xdUUDRB4QSFExROUDhB4QSFExROUDhB4QSFm/b750iYoHCCwsWg+DdwWd/7Rw9BfyconKBwMSj+gssSFE5QOEHhBIWrf7QF/UxQOEHhYtD6G7i8+keofuFlCQonKBy+X1BB0QSFExROUDhB4QSFExROUDhB4QSFExSu/nOkvU4L3y+ooGiCwj0Omn6A08L3CyoomqBw20GnF6QHnHa1+wWF9wsK7xcU3l8fMN3ftvs8fL+gggradB1oetED6fun5+v9ggpa3T89L2h5Prr/DW3c93k0fC3rAAAAAElFTkSuQmCC") 28 /  28px / 0 round;
+  border-width: 28px;
+  border-style: solid;
+}
+
+/* designed by Tod Robbins: https://todrobbins.com */
+.plus-equals {
+  border-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAAA/klEQVR4nO3VQQqDUBAFQe9/6WTvTmxH/VaBy2R4jSTbBsCk3+5Zzfg+Qd9+cJigsdcF3X/+6md63/hBQeODgsYHPxf07kFXG98nqKCHCBp73L6zX1gPqgePvxCCxgSNCRobPzhM0JigMUFjq+8DWMrqP9r+5WOCxgSNCRoTNCZoTNCYoDFBY4LGBI0JGhM0JmhM0JigMUFjgsYEjQkaEzQmaEzQmKAxQWOCxgSNrb4PYCmr/2j7l48JGhM09rqg+89f/UzvGz8oaHxQ0Pjg54LePehq4/sEFfQQQWOP23f2C+tB9eDxF0LQmKAxQWPjB4cJGhM0Jmhs9X0Aj/UHGODbXfu56OgAAAAASUVORK5CYII=") 28 /  28px / 0 round;
   border-width: 28px;
   border-style: solid;
 }

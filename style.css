@@ -25,6 +25,10 @@ details[open] {
   background: #fef;
 }
 
+summary {
+  overflow-wrap: break-word;
+}
+
 .gallery {
   display: flex;
   flex-direction: row;
@@ -35,9 +39,9 @@ details[open] {
   text-align: left;
   display: inline-block;
   margin: 20px;
-  min-width: 180px;
+  min-width: 200px;
   max-width: 33%;
-  min-height: 180px;
+  min-height: 200px;
 }
 
 .gallery-item pre {
