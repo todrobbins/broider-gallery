@@ -6,6 +6,13 @@
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
+.block-chain {
+  border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABJklEQVR4nO3YQYrDMBQE0dz/0sk+G9O4ZdeX6sGsDJpSL2zI5yNJ2sk3/NMFBy1z0DIHDV0Nsvr5dhy0zEHLHPTP6o/G9PNxQdPPxwVNPx8XNP3820Hp87fh+nFBIVw/LiiE68cFhXD9uJd6CNePCwrh+nFBIVw/Lig0vV+Sjnb6S7p+fwd10CoHLTv9/pL0qtN/PKjf30EdtMpBy5YPmj6frn5/B3XQKgctWz6oHyW/8rc4aJmDlp1+f0lCO/0lXL+/gzpolYOWnX5/SUKb/uMBrh8XFML144JCuH5cUAjXf/UPpw2aPt8/KITrxwWFcP24oBCuf/VLffr5uKDp5+OCpp+PC5p+/uOuglc/346DljlomYM+bLuPxtsctMxByxxUkg71A244e70oLcETAAAAAElFTkSuQmCC") 28 /  28px / 0 round;
+  border-width:  28px;
+  border-style:  solid;
+}
+
+/* designed by Tod Robbins: https://todrobbins.com */
 .double-prairie {
   border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABTklEQVR4nO2QMQoEQQzD9v+fvuunGULEOAQZXBoZfd89v6PVdPfdjPs/7tBjvkJhvkJhvkJhvkJhvkJhvkJhfnl/Dmyv8QPbGj+wrfED23pNeQDvuxn3f9yhx3yFwnyFwnyFwnyFwnyFwnyFwnyFwnyFwnyFwnyFwvzy/hzYXuMHtjV+YFvjB7b1mvIA3ncz7v+4Q4/5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX55f05sL3GD2xr/MC2xg9s6zXlAbzvZtz/cYce8xUK8xUK8xUK8xUK8xUK8xUK8xUK8xUK8xUK8xUK88v7c2B7jR/Y1viBbY0f2NZrygN43824/+MOPeYrFOYrFOYrFOYrFOYrFOYrFOaX9n+msncI/yiuGQAAAABJRU5ErkJggg==") 28 /  28px / 0 round;
   border-width:  28px;
