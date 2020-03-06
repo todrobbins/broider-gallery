@@ -5,6 +5,7 @@ body {
 }
 
 .site-title {
+  font-size: 1.2rem;
   margin-bottom: 40px;
   margin-left: 20px;
 }
@@ -15,6 +16,7 @@ p {
 
 details {
   padding: 20px;
+  font-size: .8rem;
 }
 
 details:hover {
@@ -26,7 +28,6 @@ details[open] {
 }
 
 summary {
-  font-size: .8rem;
   overflow-wrap: break-word;
 }
 
@@ -41,16 +42,17 @@ summary {
   display: inline-block;
   margin: 20px;
   min-width: 200px;
-  max-width: 33%;
-  min-height: 200px;
+  /* max-width: 33%;
+  min-height: 200px; */
 }
 
 .gallery-item pre {
   overflow: hidden;
   text-overflow: ellipsis;
-  font-size: 1rem;
+  font-size: .8rem;
 }
 
 footer {
   margin-top: 40px;
+  font-size: .8rem;
 }
