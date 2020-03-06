@@ -13,6 +13,13 @@
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
+.bow-ties {
+  border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABaklEQVR4nO2UQW4DQQzD8v9Ptw/IYTAwLXs3JLC3jmSxQD6fM3+Hr8op//brvmd9gULhAoXCBa8Xum3A9nvygXDftnvygXDftnvygXDftnvwQTRP6/+6R6G1foXC/QqF+3Gh3QLo9+37FKrQ0nuFwu+37WsvnM4rC7pFoTAKhVEozLbB0/+wMtMDFQrnKRTO+zmhdF63AIWG+9tRKIxCRUSkjbf/yMf3KRTOUyicp1A47/QHpwOq77uJ71OoQq9QKMx6odUvTXyfQhV6hUJh1gutHpwmvk+hCr1CoTDrhNID0sT3KRTOUyicp9DZPBERKZD+kb/9pveMH6BQ+ACFwgco9PKj89J97UwPVCicp1A47+eFTg/uvreMQmEUCqPQ5sLuA+n37fsUqtDSe4XC79cLpXlav0LhfoXC/QqF+4/3pAdVB0zfkw+E+7bdkw+E+7bdkw+E+7bdgxdUeZrQ9QUKhQsUChe8Sug/NKrztQFfGXoAAAAASUVORK5CYII=") 28 /  28px / 0 round;
+  border-width:  28px;
+  border-style:  solid;
+}
+
+/* designed by Tod Robbins: https://todrobbins.com */
 .dice-belt {
   border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABZUlEQVR4nO2QQYoDQQzE5v+f3n1AoAdjtSsxKqhLxnFbep7n+bNo4wdsa/yAbY0fsK2fP8BJA07zKRTmUyjMp1CYr/3g2//TAqf5FArzKRTmUyjM136welBXwG2h7XmFnveX5xV63l+eV+h5f3m+ClBNVwDd23wKhfkUCvMpFOZrL6w+mO5tPoXCfAqF+RQK88UBtzV+wLbGD9jW+AHbOv/gcBQKR6FwFApHoXAUCkehcBQKR6FwFApHoXAUCufrhXYPns44n0IVWopC4Xy90G6nM86nUIWWolA4CoWjUDgKhaNQOAqFo1A4CoWjUDjrhW5v/IBtjR+wrfEDtvXzBzhpwGk+hcJ8CoX5FArzvT5If0/3Np9C6e8KVehvC+3mtoDuvrf95XmFnveX5xV63l+eV+h5f3m+CtD9nu5tPoXS3xWq0N8W2k1a4DSfQmE+hcJ8CoX54oDbGj9gW+MHbGv8gFX9Bwsezi83EJhQAAAAAElFTkSuQmCC") 28 /  28px / 0 round;
   border-width:  28px;
