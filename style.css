@@ -25,6 +25,7 @@ details:hover {
 
 details[open] {
   background: #fef;
+  height: 82%;
 }
 
 summary {
@@ -41,9 +42,8 @@ summary {
   text-align: left;
   display: inline-block;
   margin: 20px;
-  min-width: 200px;
-  /* max-width: 33%;
-  min-height: 200px; */
+  min-width: 220px;
+  min-height: 220px;
 }
 
 .gallery-item pre {
