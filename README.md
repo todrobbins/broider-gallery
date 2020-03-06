@@ -16,3 +16,5 @@ For example:
   border-style: solid;
 }
 ```
+
+[This is free and unencumbered software released into the public domain.](LICENSE.md)
