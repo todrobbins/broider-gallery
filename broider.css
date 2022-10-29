@@ -1,124 +1,124 @@
 /* designed by Tod Robbins: https://todrobbins.com */
-.arrow-flow {
+.broider_arrow-flow {
   border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABdklEQVR4nO3XQQrDMAxE0dz/0uneiwSh75FL/kB38Uh+hUCuq557+Z2e3fu2+wWF+wWF+wWF++kF177TAfD9BBX0cV76/PbCz4G+XTgNTIO89eH3FVTQVn/3+fYCgsIL0KDd+dV94vcTVFBByfnHgVYL6QXSf6Cgzf74PEEFbSUOuvv8brBq8PmCCopGUDjj78zpfjqCwhEUjqBw4vsKBPcLCvcLCvcLCvf/G+ia9IdLvjAcQeEICmccdC14+52e6v74fQUV9DGCwhF0c+L3E1TQUgSFs/1+4y/tcASFIygcQeHEQdPnp4PvL6igaASFM/7OnO6nIygcQeEICie+r0Bwv6Bwv6Bwv6Bw/zToOr+6z3EfLoIK+ni+O78dQeF3ZvdC0/Oqffh9BRW01d99vr2AoPAC1QHVPvoP6+5z3EBB4YGCwgM/B1otpBdIAwva7I/PE1TQVuKg6fPV/t3A44WCwoWCwoWfB00DnB5B4QgKR1A4rX1/37a4qm7Wuo4AAAAASUVORK5CYII=") 28 /  28px / 0 round;
   border-width:  28px;
   border-style:  solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.art-deco-skylight-sm {
+.broider_art-deco-skylight-sm {
   border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAhUlEQVQ4jbVUWw7AMAjy/pe2vx2FYR+aLFsQ37qIr+TFQyXhrfRlOwSYgwqWSjHjJyVnCAIriX0zu2QEF6CkV9nMkV3piw8E3BawDK1TRlROZe/dMFym0unWlUCm1K4tU1Q+72nb9DHI8Z4+v6i220e5+kupiJL8gy0cN3WHy22plGxbMQDyyrtFPfjZdwAAAABJRU5ErkJggg==") 7 /  7px / 0 round;
   border-width:  7px;
   border-style:  solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.art-deco-skylight-md {
+.broider_art-deco-skylight-md {
   border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAYAAADFw8lbAAAAyElEQVRYheWUwQ7AIAhD9/8/vd12MGloRR1lJF5qgRdRrwvH/dGSozzomKAWyPrp/PKgkYEFWOWD++VBZ0d16tG8fjtQdRTIz+psP1/QbMHt+bagaoNVjyjkaAOqjjIKVO8/oGxBFZQ9gL6gka6Cyrod6KpvhgWV+9mBooKsroLKejtQm++pPChbUAWN+vQFjRqu+tb6gqqjPpZvB5otqOrq1fIDZWP2EbEHgvr5gEIhStjsg/s2oMiQHpXop/NtQMeE00uOUqAPj0TtL6y5usEAAAAASUVORK5CYII=") 14 /  14px / 0 round;
   border-width:  14px;
   border-style:  solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.art-deco-skylight-lg {
+.broider_art-deco-skylight-lg {
   border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABoklEQVR4nO2UwW5EMQgD+/8/3d7bg4UYwiYdS1z2gcGjVb6+6vr+ZzWu7YACvbzGtR3weqBpwfQB2/74foEKFPUXKOzf3t81oAF8ml95XqDwvEDheYE2508/+ts1nU+gcD6BwvkECufDD0jzVX+6n84n0KJfmhdo0S/NC7Tol+Yj0O0Dr9//XKDt/c8F2t7/XKDt/dWD6ADT1b2v3C/QXj6BwvkECufDgab5bsCuqvcJNEigsAQK6zqg9IG0pv8AAg33CDRIoLCuB9rtp3U8n0DhfoHC/QKF+9OjTddpHc8nUIGWJFBY60CrB9L9tI7nEyjcL1C4X6BwP70wPtqHVb1HoEEChSVQWNcBpQ+kNf0HEGj4LtAggcK6DmhVKQBd3fvK/QLt5RMonE+gcL4y0O738kG3738u0Pb+5wJt738u0Pb+3z9sHzjdT+cTaNEvzQu06JfmBVr0S/MRKK10wOmazidQOJ9A4XwChfPVG7oLLvcrzwsUnhcoPC/Q4XuSwfqjP+yP7xeoQFF/gcL+0/v/LHi9xrUdUKCX17i2A3400B+mhLTm4MC6UQAAAABJRU5ErkJggg==") 28 /  28px / 0 round;
   border-width:  28px;
   border-style:  solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.block-chain {
+.broider_block-chain {
   border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABJklEQVR4nO3YQYrDMBQE0dz/0sk+G9O4ZdeX6sGsDJpSL2zI5yNJ2sk3/NMFBy1z0DIHDV0Nsvr5dhy0zEHLHPTP6o/G9PNxQdPPxwVNPx8XNP3820Hp87fh+nFBIVw/LiiE68cFhXD9uJd6CNePCwrh+nFBIVw/Lig0vV+Sjnb6S7p+fwd10CoHLTv9/pL0qtN/PKjf30EdtMpBy5YPmj6frn5/B3XQKgctWz6oHyW/8rc4aJmDlp1+f0lCO/0lXL+/gzpolYOWnX5/SUKb/uMBrh8XFML144JCuH5cUAjXf/UPpw2aPt8/KITrxwWFcP24oBCuf/VLffr5uKDp5+OCpp+PC5p+/uOuglc/346DljlomYM+bLuPxtsctMxByxxUkg71A244e70oLcETAAAAAElFTkSuQmCC") 28 /  28px / 0 round;
   border-width:  28px;
   border-style:  solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.bow-ties {
+.broider_bow-ties {
   border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABaklEQVR4nO2UQW4DQQzD8v9Ptw/IYTAwLXs3JLC3jmSxQD6fM3+Hr8op//brvmd9gULhAoXCBa8Xum3A9nvygXDftnvygXDftnvygXDftnvwQTRP6/+6R6G1foXC/QqF+3Gh3QLo9+37FKrQ0nuFwu+37WsvnM4rC7pFoTAKhVEozLbB0/+wMtMDFQrnKRTO+zmhdF63AIWG+9tRKIxCRUSkjbf/yMf3KRTOUyicp1A47/QHpwOq77uJ71OoQq9QKMx6odUvTXyfQhV6hUJh1gutHpwmvk+hCr1CoTDrhNID0sT3KRTOUyicp9DZPBERKZD+kb/9pveMH6BQ+ACFwgco9PKj89J97UwPVCicp1A47+eFTg/uvreMQmEUCqPQ5sLuA+n37fsUqtDSe4XC79cLpXlav0LhfoXC/QqF+4/3pAdVB0zfkw+E+7bdkw+E+7bdkw+E+7bdgxdUeZrQ9QUKhQsUChe8Sug/NKrztQFfGXoAAAAASUVORK5CYII=") 28 /  28px / 0 round;
   border-width:  28px;
   border-style:  solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.dice-belt {
+.broider_dice-belt {
   border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABZUlEQVR4nO2QQYoDQQzE5v+f3n1AoAdjtSsxKqhLxnFbep7n+bNo4wdsa/yAbY0fsK2fP8BJA07zKRTmUyjMp1CYr/3g2//TAqf5FArzKRTmUyjM136welBXwG2h7XmFnveX5xV63l+eV+h5f3m+ClBNVwDd23wKhfkUCvMpFOZrL6w+mO5tPoXCfAqF+RQK88UBtzV+wLbGD9jW+AHbOv/gcBQKR6FwFApHoXAUCkehcBQKR6FwFApHoXAUCufrhXYPns44n0IVWopC4Xy90G6nM86nUIWWolA4CoWjUDgKhaNQOAqFo1A4CoWjUDjrhW5v/IBtjR+wrfEDtvXzBzhpwGk+hcJ8CoX5FArzvT5If0/3Np9C6e8KVehvC+3mtoDuvrf95XmFnveX5xV63l+eV+h5f3m+CtD9nu5tPoXS3xWq0N8W2k1a4DSfQmE+hcJ8CoX54oDbGj9gW+MHbGv8gFX9Bwsezi83EJhQAAAAAElFTkSuQmCC") 28 /  28px / 0 round;
   border-width:  28px;
   border-style:  solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.dice-corners {
+.broider_dice-corners {
   border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABXklEQVR4nO3VsW7DMBAEUf3/Tye9CgoLzi1pYAZQY9Mn3kuR53mev/LTrr6foIJGCQp3HHR6oXb1/QSF5wsKzxcUnr/7wq/f/zpovJ+ge78XFP69oPDvj/9TOv2k943PC7q+b3xe0PV94/OCru8bn/8asAs+/QfbfT++n6CCou8XFH5/HXS320Hx+YLC8wWF5wsKz39/MP20q+8nqKBRgsJdv99poOnq+wn66y8sJyicoHCCwgkKJyicoHCCwgkKJyicoHCCwgkKJyicoHCCwgkKJyicoHCCwgkKJyicoHCCwgkKJyjc9n7vAdNPu/p+ggoaJSjccdDphdrV9xMUni8oPF9QeP7XC6e/n66+n6CCRgkKdx3obu/5p5/0vvF5Qdf3jc8Lur5vfF7Q9X3j818Dpr+frr6foIJGCQp3Hehut4Pi8wWF5wsKzxcUnv/+YPppV99PUEGjBIWr7vcPfbCX2VM3uSUAAAAASUVORK5CYII=") 28 /  28px / 0 round;
   border-width:  28px;
   border-style:  solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.double-prairie {
+.broider_double-prairie {
   border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABTklEQVR4nO2QMQoEQQzD9v+fvuunGULEOAQZXBoZfd89v6PVdPfdjPs/7tBjvkJhvkJhvkJhvkJhvkJhvkJhfnl/Dmyv8QPbGj+wrfED23pNeQDvuxn3f9yhx3yFwnyFwnyFwnyFwnyFwnyFwnyFwnyFwnyFwnyFwvzy/hzYXuMHtjV+YFvjB7b1mvIA3ncz7v+4Q4/5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX5CoX55f05sL3GD2xr/MC2xg9s6zXlAbzvZtz/cYce8xUK8xUK8xUK8xUK8xUK8xUK8xUK8xUK8xUK8xUK88v7c2B7jR/Y1viBbY0f2NZrygN43824/+MOPeYrFOYrFOYrFOYrFOYrFOYrFOaX9n+msncI/yiuGQAAAABJRU5ErkJggg==") 28 /  28px / 0 round;
   border-width:  28px;
   border-style:  solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.cross-stitch {
+.broider_cross-stitch {
   border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABZElEQVR4nO2YMQ7DMAzE+v9Pt3sWozClsxUS6KbqfBxsIJ9Pnu/j1/3/cSgURqEwCi1mJUiBf6JQGIXCjBeaLpjej+crVKHofoXC+8vv7O5HYXre+IIKvTxvfMH4nUkfYHre+IIKvTxvfMF2odXsHvi6wtUoFEahMArdpFrA6wQrFEahMArdJF0wnY+TLpTOx0kXSufjpAu153d/bEhT3leh8D6FwvsUWrzv38DTBa4o76tQdl6h8LxC4fnlgtsFrijvq1CFbqFQGLyvjxI7r1B4XqHwvEJ352khpwsu76tQeJ9C4X0KPWvfeYGH5eOkC6XzcdKF0vk46ULp/HKqC44X+EShMAqFUWgxuwJeL/CJQmEUCvM6oasDd39suD1vfEGFXp43vmC70PaAl+WNL6jQy/PGF4zfmdUHSO+//pU/bb9C4f0Khfe3P1I04wt2o1AYhcIodJNdQQp+oFAYhcKMEvoDUc07/cM/nLQAAAAASUVORK5CYII=") 28 /  28px / 0 round;
   border-width:  28px;
   border-style:  solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.cross-wreath {
+.broider_cross-wreath {
   border-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABO0lEQVR4nO2asQ7DUAjE8v8/3e6vQ3TiOBJqS5kIiuyBLr2uXz7Ho1Ld7ybuR1DzPkHN+wQt7p8v3D3u/W7ifgQlqARBzYz7qR9Q59PE/QhKUAmCmhn3cx/1p89VPxmCErQ0J6h5bg/aLTBN3I+gBJUgqJl2v+pRbj/qReJ+BCWoBEHNjPupH1Dn08T9CEpQCYKa2e4HAPBXbD/KcT+Cvv2DYQhqZrsfAMAqth9tfuXNENQMQc1s9wMAWMX2o82vvBmCmiGome1+AACvYvufqeJ+BCWoBEHNtPudL9w97v1u4n4EJagEQc2M+6kfUOfTxP0ISlAJgpoZ93Mf9afPVT8ZghK0NCeoeW4P2i0wTdyPoASVIKiZdr/qUW4/6kXifgQlqARBzYz7VQNMB7wj7kdQ8z5BzfsELex/AcNLeOqcrSZOAAAAAElFTkSuQmCC") 28 /  28px / 0 round;
   border-width: 28px;
   border-style: solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.floral-cross {
+.broider_floral-cross {
   border-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABTUlEQVR4nO3YMQ7CMBQEUd//0lBDwddqxxG2ZqR0Scw+CiTWWusFX2np8+150/vq/YIKKmgyiL4/fd920PQD7B5Ih+8XVFA0QeG2g04vSA847Wr3CwrvFxTeLyi8vz5guv/fw/cLKiiaoHCPg6bXaeH7BRUUTVC4x/efDtaG7xdUUDRB4QSFExROUDhB4QSFExROUDhB4QSFm/b750iYoHCCwsWg+DdwWd/7Rw9BfyconKBwMSj+gssSFE5QOEHhBIWrf7QF/UxQOEHhYtD6G7i8+keofuFlCQonKBy+X1BB0QSFExROUDhB4QSFExROUDhB4QSFExSu/nOkvU4L3y+ooGiCwj0Omn6A08L3CyoomqBw20GnF6QHnHa1+wWF9wsK7xcU3l8fMN3ftvs8fL+gggradB1oetED6fun5+v9ggpa3T89L2h5Prr/DW3c93k0fC3rAAAAAElFTkSuQmCC") 28 /  28px / 0 round;
   border-width: 28px;
   border-style: solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.m-corner {
+.broider_m-corner {
   border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABHklEQVR4nO3VMY4CQQwAQf7/6SPngpE1zbID1ZIjZIErGB6PdX/DOa3L7wMKdBTQuI+D/lpA44DGAY0b37/7KE/37z7bPkCBAj1pctBpu/ufLr8fKNA0oHGXg+4+6nev/tMCOpzVPtDhrPaBDme1P/7CXyu/HyjQNKBxQOOAxgGNAxoHNA5oHNA4oHFA44DGAY0DGgc0Dmgc0DigcUDjgMYBjQMaBzQOaBzQOKBxQOOAxgGNAxoHNA5oHNA4oHFA44DGAY0DGgc0Dmgc0DigceP7Vwuvn6/mtHbv+/c5UKBpQOMuB53+oNPK7wcKNA1o3NtBdx/l02f3PqBAgR4126CrxgtfVn4/UKBpQOPeDrr9KN+sy+8DCnQU0Lj0vic1NDobdvnZPgAAAABJRU5ErkJggg==") 28 /  28px / 0 round;
   border-width:  28px;
   border-style:  solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.manuscript {
+.broider_manuscript {
   border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABXElEQVR4nO3WS47CUAwF0ex/0zBGQjxdufx+VEk9ckicQ9TheczMrLPX4G+34+nPj84XtxooPV5Q+HhB4eO3A00X6p5XwWbPt1tI0Oa5oPD8OtDVC+42FxSeCwrPBYXnZVB6gXihYvQDUl6gOhe0eEFBwxMKetoCk6s+IPEFBBU0SlC4dtB0gdtAt39p7Z6gcILCtYPeBjaq/YkUNJvHFxBU0KjpoPgFNq/9pVQ+4WEJCiconL9Dmyt7CPqZoHCCwuEe/wbcfr+CClpKUDj/ZzbnWx5OUDhB4XDQdH56+P0LKiiaoHDt9y8w/JIWVFA0QeGm/w49HbT9fgQVtJSgcNNBb38ptT9Agv6eCzpIULjl74zlC4T70Q+IoOE+gobXF7S433LQ2QucNhcUngsKzwWF52XQ1fPTvuDtFhK0eS4oPD8edHQC+obpz88+Pk5QQaceHycoDGpmZt97AzUGd/m7ddWEAAAAAElFTkSuQmCC") 28 /  28px / 0 round;
   border-width:  28px;
   border-style:  solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.plus-equals {
+.broider_plus-equals {
   border-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAAA/klEQVR4nO3VQQqDUBAFQe9/6WTvTmxH/VaBy2R4jSTbBsCk3+5Zzfg+Qd9+cJigsdcF3X/+6md63/hBQeODgsYHPxf07kFXG98nqKCHCBp73L6zX1gPqgePvxCCxgSNCRobPzhM0JigMUFjq+8DWMrqP9r+5WOCxgSNCRoTNCZoTNCYoDFBY4LGBI0JGhM0JmhM0JigMUFjgsYEjQkaEzQmaEzQmKAxQWOCxgSNrb4PYCmr/2j7l48JGhM09rqg+89f/UzvGz8oaHxQ0Pjg54LePehq4/sEFfQQQWOP23f2C+tB9eDxF0LQmKAxQWPjB4cJGhM0Jmhs9X0Aj/UHGODbXfu56OgAAAAASUVORK5CYII=") 28 /  28px / 0 round;
   border-width: 28px;
   border-style: solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.pokemon-blue {
+.broider_pokemon-blue {
   border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABh0lEQVR4nO3UQW4DIBBD0dz/0u0BurC+MAM0fyRWJsHzIuXzyfMDz2szvp+ggqIRtDzb96MPvAY8vp+ggqIRtDzb92s/cBvw+H6CCopG0PJcD3q68PQPLqigdx1BbwdNs/t+e8b3E7R8X9DyfUE3318FaP/Jr57p/cYfFLT8oKDlB78ONH3B6gKnT3s/PIIKKuhXgaYCtOD0rAKPF0y5oLBgygWFBVMuKCyYckFhwZQLCgumXFBYMOWCwoIpFxQWTLmgsGDKBYUFUy4oLJhyQWHBlAsKC6ZcUFgw5YLCgikXFBZMuaCwYMoFhQVTLigsmHJBYcGUCwoLplxQWDDlgsKCKRcUFky5oLBgygWFBVMuKCy0Cjx92vvhEVRQQf816G0L3P5+nNcWOv1+nNcWOv1+nNcWOv3+dQvunvH9BBUUjaDluR70dOHpH1xQQe86gt4Ommb3/faM7ydo+b6g5fuCbr6/CnAaMM34foKWPy9o+fOC7v38ny9I57UZ309QQdEIWp7qfr+y8rP1iPdhUgAAAABJRU5ErkJggg==") 28 /  28px / 0 round;
   border-width:  28px;
   border-style:  solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.poppy-cross {
+.broider_poppy-cross {
   border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABaElEQVR4nO2WQQ7DMAzD+v9Pbz9oQVhRs4wEclMci4ei13Vdn/JpU++nUIUiFBpmO6HpAmkBq/fB8xTKUOjwPp6nUAYWSgdO81QgFVTvp9BwXqHhvELD+XRhuuB03ur38XyFKlShCr0hnaeF0kLjeYWG8woN5xUaztMF6QPTBVfPozzOUyhDocP7eJ5CGWOh6dOm3k+hCkUoNMzp/URE/orTP8r1fgpVKEKhYZb3O/1Ht95PoQpFKDTMdkKn+bep91PoLP/+g2UUGmY7ofTsRr2fQhWKUGiY1/v9usAn6v0UqlCEQsOc3k9E5KdI/+ju9lGv91OoQhEKDbOd0HSBtIDV++B5CmUodHgfz1MoAwulA6d5KpAKqvdTaDiv0HBeoeF8ujBdcDpv9ft4vkIVqlCF3pDO00JpofG8QsN5hYbzCg3n6YL0gemCq+dRHucplKHQ4X08T6GMsdD0aVPvp1CFIhQaptrvC1EVM4TVl2v7AAAAAElFTkSuQmCC") 28 /  28px / 0 round;
   border-width:  28px;
   border-style:  solid;
 }
 
 /* designed by Tod Robbins: https://todrobbins.com */
-.zebra-stripe {
+.broider_zebra-stripe {
   border-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAABnUlEQVR4nO3VQU4EMQxE0b7/pWGNkLBK/ondwy/JuykneYyG56nz5fyYdqYfsG3amX7Atmln+gHbBgfc3qf3t+8zDSLosj69X1B4f3yfqjANtL3/a5+gvb6gcF9QuF+CTl+Q7l/fvx2k2xcU7gsK98dBtwOVDwqDn78NRNBl/TSCVg8Kcx2UvnD6+dPA+P0EFfToee37CXoYNF7wstCAgj6CohEUzjjo6QtvS/oFErSIoHAEhXMd9NP/SXU9BC0m7QtaTNoXtJi0H//oClj0BRW0FUHhXAfFf6SXhQYU9BEUjaBwxkG7B74t6XsELSIoHEHh4KD0gdtDf6EELSbtC1pM2he0mLQf/+h+GiC+T1B4n6DwPkHhfRVY+0f6ZUnfL2gRQeEICuc4aHqB05+//QeOv3CC9s4XNIygzfPS80vQ7gHdC58+/3hfUEEFTfadPn8clL7A6f3TfUHhvqBwX1C4Xy6cvuC2frlf0KwvKNwXFO7H+9NC9wFVtgPjCwSFFwgKLxA0TLXwv0070w/YNu1MP2DbtDP9gG3zZ74B+8V0NZS6E8gAAAAASUVORK5CYII=") 28 /  28px / 0 round;
   border-width: 28px;
   border-style: solid;
