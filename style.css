@@ -50,6 +50,7 @@ summary {
   overflow: hidden;
   text-overflow: ellipsis;
   font-size: .8rem;
+  max-width: 480px;
 }
 
 footer {
